@@ -9,7 +9,7 @@ export default function Introduction() {
                     <div>
                         <p className="text-[#b3fd3d] text-2xl font-bold mb-4">Teknik Informatika</p>
                         <h2 className="text-5xl md:text-7xl text-white font-extrabold leading-tight">
-                            Hello, I'm <br /> Aliff Adhipramana
+                            Hello, Im <br /> Aliff Adhipramana
                         </h2>
                         <p className="text-white text-lg mt-6 max-w-lg">
                             I'm a student of Teknik Informatika at Sekolah Tinggi Teknologi Indonesia, Tanjungpinang. 
