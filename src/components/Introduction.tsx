@@ -12,7 +12,7 @@ export default function Introduction() {
                             Hello, Im <br /> Aliff Adhipramana
                         </h2>
                         <p className="text-white text-lg mt-6 max-w-lg">
-                            I'm a student of Teknik Informatika at Sekolah Tinggi Teknologi Indonesia, Tanjungpinang. 
+                            Im a student of Teknik Informatika at Sekolah Tinggi Teknologi Indonesia, Tanjungpinang. 
                             Passionate about technology, programming, and creating innovative solutions.
                         </p>
                         <div className="mt-8 flex space-x-4">
